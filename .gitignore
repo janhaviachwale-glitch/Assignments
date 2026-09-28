@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Xcode generated files
+*.pbxproj
+*.xcworkspacedata
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Xcode asset metadata
+**/Assets.xcassets/**/Contents.json
+**/Preview Content/**/Contents.json
+
+# Tests
+LibraryObservationTests/
+LibraryObservationUITests/
